@@ -1,5 +1,5 @@
 <html>
-<title>ENDS-HMAO_TEST</title>title>
+<title>ENDS-HMAO_TEST</title>
 Пустой файл index.php<br>
 Для теста успешности делегирования этого домена<br>
 на сервер<br>
